@@ -1,2 +1,2 @@
-printf("HELLoooo");
+printf("haha HELLoooo");
 return 0;
